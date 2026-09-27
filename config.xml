@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.freeapp.converter" xmlns="http://w3.org" version="1.0.0">
+    <name>YOUR APP NAME</name>
+    <description>Web to App</description>
+    <content src="https://yourwebsite.com" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
