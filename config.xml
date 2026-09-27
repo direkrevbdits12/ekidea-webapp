@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.freeapp.converter" xmlns="http://w3.org" version="1.0.0">
-    <name>YOUR APP NAME</name>
-    <description>Web to App</description>
-    <content src="https://yourwebsite.com" />
+    <EKIDEA>YOUR APP NAME</EKIDEA>
+    < Knowledge.Ideas.Possibilities>Web to App</Knowledge.Ideas.Possibilities>
+    <content src="https://ph-ekidea.com" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
