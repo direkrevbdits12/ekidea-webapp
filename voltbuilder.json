@@ -1,4 +1,8 @@
 {
-  "platform": "android",
-  "source": "*"
+  "androidKeystore": "ekideakey.p12",
+  "androidAlias": "key0",
+  "androidKeystorePassword": "YOUR_KEYSTORE_PASSWORD",
+  "androidAliasPassword": "YOUR_KEYSTORE_PASSWORD",
+  "androidPackageType": "bundle",
+  "release": "release"
 }
